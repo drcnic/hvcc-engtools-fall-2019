@@ -1,0 +1,5 @@
+spreadsheets showing data: DONE
+spreadsheets showing formulas: DONE
+matlab copy of tutorial cert: DONE
+matlab picture of data graph: DONE
+matlab picture of command window: DONE
